@@ -152,8 +152,7 @@ bienvenus.
 
 ### Mes sauvegardes sont-elles compatibles ?
 
-Le patch ne modifie pas les fichiers de sauvegarde. Garde néanmoins une copie
-de tes sauvegardes avant toute mise à jour, par précaution.
+Le patch ne modifie pas les fichiers de sauvegarde.
 
 ### Comment désinstaller le patch ?
 
