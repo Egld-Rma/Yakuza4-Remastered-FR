@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="assets/YAKUZA-FR.png" alt="Yakuza 4 FR" width="900">
+  <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
+    <img src="assets/YAKUZA-FR.png" alt="Yakuza 4 FR" width="900">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.6-blue?style=flat-square"
-       alt="Version v1.0.6">
+  <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
+    <img src="https://img.shields.io/badge/version-v1.0.6-blue?style=flat-square"
+         alt="Version v1.0.6">
+  </a>
   <img src="https://img.shields.io/badge/statut-pr%C3%A9--b%C3%AAta-orange?style=flat-square"
        alt="Statut pré-bêta">
 </p>
 
-# Yakuza 4 Remastered — Patch français PC
+# Yakuza 4 Remastered — Traduction française (mod PC Steam)
 
-> Patch français non officiel pour *Yakuza 4 Remastered* sur PC Steam :
-> dialogues, sous-titres, menus, objectifs et interface en français.
+> Mod de traduction française non officiel pour *Yakuza 4 Remastered* sur PC
+> Steam : dialogues, sous-titres, menus, objectifs et interface en français.
 
 **[Télécharger la dernière version](https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest)**
 
