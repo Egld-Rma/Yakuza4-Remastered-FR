@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.5-blue?style=flat-square"
+  <img src="https://img.shields.io/badge/version-v1.0.6-blue?style=flat-square"
        alt="Version v1.0.6">
   <img src="https://img.shields.io/badge/statut-pr%C3%A9--b%C3%AAta-orange?style=flat-square"
        alt="Statut pré-bêta">
