@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
-    <img src="https://img.shields.io/badge/version-v1.0.6-blue?style=flat-square"
-         alt="Version v1.0.6">
+    <img src="https://img.shields.io/badge/version-v1.0.7-blue?style=flat-square"
+         alt="Version v1.0.7">
   </a>
   <img src="https://img.shields.io/badge/statut-pr%C3%A9--b%C3%AAta-orange?style=flat-square"
        alt="Statut pré-bêta">
