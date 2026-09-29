@@ -6,11 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
-    <img src="https://img.shields.io/badge/version-v1.0.15-blue?style=flat-square"
-         alt="Version v1.0.15">
+    <img src="https://img.shields.io/badge/version-v2.0-blue?style=flat-square"
+         alt="Version v2.0">
   </a>
-  <img src="https://img.shields.io/badge/statut-pr%C3%A9--b%C3%AAta-orange?style=flat-square"
-       alt="Statut pré-bêta">
+  <img src="https://img.shields.io/badge/statut-b%C3%AAta-yellow?style=flat-square"
+       alt="Statut bêta">
+  <img src="https://img.shields.io/badge/histoire%20principale-100%25%20v%C3%A9rifi%C3%A9e-brightgreen?style=flat-square"
+       alt="Histoire principale vérifiée à 100%">
 </p>
 
 # Yakuza 4 Remastered — Traduction française (mod PC Steam)
@@ -27,6 +29,7 @@
 - [Installation](#installation)
 - [Contenu du patch](#contenu-du-patch)
 - [État du projet](#état-du-projet)
+- [Communauté](#communauté)
 - [Signaler un problème](#signaler-un-problème)
 - [FAQ](#faq)
 - [Roadmap](#roadmap)
@@ -41,8 +44,7 @@ et *Yakuza Kiwami 3 & Dark Ties*.
 
 La traduction couvre les dialogues, sous-titres, menus, objectifs,
 descriptions, messages d'ambiance et plusieurs éléments graphiques. Le travail
-sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 5* et
-*Yakuza 6*.
+sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 3*
 
 ## Aperçus
 
@@ -129,18 +131,32 @@ Le dossier `data` de la release contient uniquement les fichiers modifiés :
 
 ## État du projet
 
-La traduction est jouable et fait encore l'objet d'une phase de débogage. La
-version finale sera publiée après validation de l'histoire principale de bout
-en bout sans blocage. Elle sera également proposée sur Nexus Mods.
+**Le patch est passé en bêta.** La phase de pré-bêta est terminée.
+
+L'histoire principale a été vérifiée de bout en bout, sur les cinq parties du
+jeu — Akiyama, Saejima, Tanimura, Kiryu et la partie finale. Elle est
+**jouable et compréhensible du début à la fin**, sans blocage.
+
+Il reste la vérification des sous-intrigues. La publication sur **Nexus Mods**
+interviendra une fois cette étape terminée.
 
 Des erreurs de contexte, d'affichage, d'orthographe ou de formulation peuvent
 encore subsister. Les retours de jeu permettent de les repérer et de les
 corriger.
 
+## Communauté
+
+Un serveur Discord regroupe le suivi du projet, les retours de bugs et les
+bêta-testeurs : **[rejoindre le serveur](https://discord.gg/zYVqTqTnfZ)**.
+
+Vous y trouverez le suivi de l'avancement au jour le jour, un salon dédié au
+signalement des erreurs, et de quoi devenir bêta-testeur.
+
 ## Signaler un problème
 
-Ouvre une [issue GitHub](https://github.com/Egld-Rma/Yakuza4-Remastered-FR/issues)
-ou contacte-moi sur Discord : **egld**.
+Ouvre une [issue GitHub](https://github.com/Egld-Rma/Yakuza4-Remastered-FR/issues),
+passe par le salon dédié du [Discord](https://discord.gg/zYVqTqTnfZ), ou
+contacte-moi directement : **egld**.
 
 Pour qu'un signalement soit exploitable, indique :
 
@@ -173,15 +189,26 @@ extraits hors contexte, ce qui peut mener à une mauvaise interprétation.
 La compatibilité est possible, mais non confirmée. Steam reste la plateforme de
 référence pour les tests.
 
+### Puis-je faire le jeu en entier avec cette version ?
+
+Oui. L'histoire principale est traduite et vérifiée du début à la fin, sur les
+cinq parties. Les sous-intrigues sont traduites mais pas encore relues une par
+une.
+
 ## Roadmap
 
-1. Corriger les retours de la pré-bêta et les éventuels blocages.
-2. Relire les textes et améliorer les formulations signalées.
-3. Tester l'histoire principale de bout en bout.
-4. Préparer la version finale et sa publication sur Nexus Mods.
+- [x] Traduire l'histoire principale
+- [x] Corriger les retours de la pré-bêta et les blocages
+- [x] Tester l'histoire principale de bout en bout — **terminé**
+- [ ] Vérifier les sous-intrigues
+- [ ] Relire les textes et améliorer les formulations signalées
+- [ ] Publier la version finale sur Nexus Mods
 
 ## Remerciements
 
+- Les **bêta-testeurs** du projet, qui remontent les erreurs que je ne vois
+  plus à force de les avoir sous les yeux. La review complète de l'histoire
+  principale n'aurait pas abouti aussi vite sans eux.
 - [Byce61](https://www.youtube.com/@Byce61), dont le
   [let's play de *Yakuza 4 Remastered*](https://www.youtube.com/watch?v=wrGzgohh6nE&list=PLqIbGHNnXL8OAqlWcjmTunNXjs9ktXQIJ)
   a servi de référence pour le travail manuel sur les cinématiques.
