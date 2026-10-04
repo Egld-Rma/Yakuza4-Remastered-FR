@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
-    <img src="https://img.shields.io/badge/version-v2.0-blue?style=flat-square"
-         alt="Version v2.0">
+    <img src="https://img.shields.io/badge/version-v2.3-blue?style=flat-square"
+         alt="Version v2.3">
   </a>
   <img src="https://img.shields.io/badge/statut-b%C3%AAta-yellow?style=flat-square"
        alt="Statut bêta">
-  <img src="https://img.shields.io/badge/histoire%20principale-100%25%20v%C3%A9rifi%C3%A9e-brightgreen?style=flat-square"
-       alt="Histoire principale vérifiée à 100%">
+  <img src="https://img.shields.io/badge/histoire%20et%20sous--intrigues-100%25%20v%C3%A9rifi%C3%A9es-brightgreen?style=flat-square"
+       alt="Histoire principale et sous-intrigues vérifiées à 100%">
 </p>
 
 # Yakuza 4 Remastered — Traduction française (mod PC Steam)
@@ -44,7 +44,8 @@ et *Yakuza Kiwami 3 & Dark Ties*.
 
 La traduction couvre les dialogues, sous-titres, menus, objectifs,
 descriptions, messages d'ambiance et plusieurs éléments graphiques. Le travail
-sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 3*
+sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 5* et
+*Yakuza 6*.
 
 ## Aperçus
 
@@ -104,6 +105,7 @@ Le dossier `data` de la release contient uniquement les fichiers modifiés :
   `data/ikusei/` et `data/db.soul/`
 - **Courriers et mini-jeux** — `data/scenario_en/` et `data/minigame/`
 - **Dialogues, boutiques et interactions** — `data/wdr_par_en/`
+- **Effets nécessaires à l'interface traduite** — `data/effect.par`
 
 <details>
 <summary>Liste technique complète des fichiers inclus</summary>
@@ -117,6 +119,7 @@ Le dossier `data` de la release contient uniquement les fichiers modifiés :
 - `data/db.soul/en/middle_file_reactive_obj_name.bin`
 - `data/db.soul/en/msg.bin`
 - `data/db.soul/en/msg_replacer.bin`
+- `data/effect.par`
 - `data/fontpar/font_hd_en.par`
 - `data/hact/subtitle.par`
 - `data/ikusei/ikusei_param_en.par`
@@ -131,14 +134,14 @@ Le dossier `data` de la release contient uniquement les fichiers modifiés :
 
 ## État du projet
 
-**Le patch est passé en bêta.** La phase de pré-bêta est terminée.
+**Le patch est désormais en bêta.** L'histoire principale et l'intégralité des
+sous-intrigues ont été vérifiées manuellement.
 
-L'histoire principale a été vérifiée de bout en bout, sur les cinq parties du
-jeu — Akiyama, Saejima, Tanimura, Kiryu et la partie finale. Elle est
-**jouable et compréhensible du début à la fin**, sans blocage.
+Les cinq parties du jeu — Akiyama, Saejima, Tanimura, Kiryu et la partie finale
+— sont **jouables et compréhensibles en français**, aussi bien pour l'histoire
+principale que pour les sous-intrigues.
 
-Il reste la vérification des sous-intrigues. La publication sur **Nexus Mods**
-interviendra une fois cette étape terminée.
+Le projet reste en phase de correction avant sa publication sur **Nexus Mods**.
 
 Des erreurs de contexte, d'affichage, d'orthographe ou de formulation peuvent
 encore subsister. Les retours de jeu permettent de les repérer et de les
@@ -149,8 +152,8 @@ corriger.
 Un serveur Discord regroupe le suivi du projet, les retours de bugs et les
 bêta-testeurs : **[rejoindre le serveur](https://discord.gg/zYVqTqTnfZ)**.
 
-Vous y trouverez le suivi de l'avancement au jour le jour, un salon dédié au
-signalement des erreurs, et de quoi devenir bêta-testeur.
+Vous y trouverez le suivi de l'avancement, un salon dédié au signalement des
+erreurs et toutes les informations concernant les prochaines versions.
 
 ## Signaler un problème
 
@@ -191,24 +194,23 @@ référence pour les tests.
 
 ### Puis-je faire le jeu en entier avec cette version ?
 
-Oui. L'histoire principale est traduite et vérifiée du début à la fin, sur les
-cinq parties. Les sous-intrigues sont traduites mais pas encore relues une par
-une.
+Oui. L'histoire principale et les sous-intrigues ont été vérifiées
+manuellement. Les cinq parties sont jouables et compréhensibles en français.
 
 ## Roadmap
 
 - [x] Traduire l'histoire principale
-- [x] Corriger les retours de la pré-bêta et les blocages
-- [x] Tester l'histoire principale de bout en bout — **terminé**
-- [ ] Vérifier les sous-intrigues
-- [ ] Relire les textes et améliorer les formulations signalées
-- [ ] Publier la version finale sur Nexus Mods
+- [x] Corriger les blocages signalés pendant la pré-bêta
+- [x] Vérifier l'histoire principale de bout en bout
+- [x] Vérifier l'intégralité des sous-intrigues
+- [ ] Continuer à corriger les formulations et erreurs signalées
+- [ ] Préparer la version finale et sa publication sur Nexus Mods
 
 ## Remerciements
 
-- Les **bêta-testeurs** du projet, qui remontent les erreurs que je ne vois
-  plus à force de les avoir sous les yeux. La review complète de l'histoire
-  principale n'aurait pas abouti aussi vite sans eux.
+- Les **bêta-testeurs** du projet, dont les retours ont permis de vérifier
+  l'histoire principale et les sous-intrigues, ainsi que de corriger de nombreux
+  problèmes impossibles à repérer sans jouer.
 - [Byce61](https://www.youtube.com/@Byce61), dont le
   [let's play de *Yakuza 4 Remastered*](https://www.youtube.com/watch?v=wrGzgohh6nE&list=PLqIbGHNnXL8OAqlWcjmTunNXjs9ktXQIJ)
   a servi de référence pour le travail manuel sur les cinématiques.
