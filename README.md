@@ -202,7 +202,7 @@ manuellement. Les cinq parties sont jouables et compréhensibles en français.
 - [x] Corriger les blocages signalés pendant la pré-bêta
 - [x] Vérifier l'histoire principale de bout en bout
 - [x] Vérifier l'intégralité des sous-intrigues
-- [ ] Continuer à corriger les formulations et erreurs signalées
+- [x] Continuer à corriger les formulations et erreurs signalées
 - [ ] Préparer la version finale et sa publication sur Nexus Mods
 
 ## Remerciements
