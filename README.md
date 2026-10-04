@@ -44,8 +44,7 @@ et *Yakuza Kiwami 3 & Dark Ties*.
 
 La traduction couvre les dialogues, sous-titres, menus, objectifs,
 descriptions, messages d'ambiance et plusieurs éléments graphiques. Le travail
-sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 5* et
-*Yakuza 6*.
+sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 3*
 
 ## Aperçus
 
