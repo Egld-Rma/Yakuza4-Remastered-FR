@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest">
-    <img src="https://img.shields.io/badge/version-v2.8-blue?style=flat-square"
-         alt="Version v2.8">
+    <img src="https://img.shields.io/badge/version-v3.0-blue?style=flat-square"
+         alt="Version v3.0">
   </a>
-  <img src="https://img.shields.io/badge/statut-b%C3%AAta-yellow?style=flat-square"
-       alt="Statut bêta">
+  <img src="https://img.shields.io/badge/statut-stable-brightgreen?style=flat-square"
+       alt="Statut stable">
   <img src="https://img.shields.io/badge/histoire%20et%20sous--intrigues-100%25%20v%C3%A9rifi%C3%A9es-brightgreen?style=flat-square"
        alt="Histoire principale et sous-intrigues vérifiées à 100%">
 </p>
@@ -38,7 +38,7 @@
 ## Le projet
 
 Ce projet propose une traduction française de *Yakuza 4 Remastered*. Il est
-réalisé par **Egld-Rma** pour rendre cette partie de la série plus accessible
+réalisé par **Egld** pour rendre cette partie de la série plus accessible
 aux joueurs ayant découvert la licence avec *Yakuza Kiwami*, *Yakuza Kiwami 2*
 et *Yakuza Kiwami 3 & Dark Ties*.
 
@@ -71,28 +71,65 @@ sur *Yakuza 4* servira aussi de base aux projets prévus sur *Yakuza 3*
 
 ## Installation
 
-1. Télécharge l'archive de la
-   [dernière release](https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest).
+Deux versions sont proposées dans la
+[dernière release](https://github.com/Egld-Rma/Yakuza4-Remastered-FR/releases/latest) :
 
-2. Ferme *Yakuza 4 Remastered*.
+- `Yakuza4-Remastered-FR-v3.0.rar` pour l'installation manuelle ;
+- `Yakuza4-Remastered-FR-SRMM-v3.0.zip` pour Shin Ryu Mod Manager.
 
-3. Accède au dossier d'installation du jeu.
+Choisis une seule méthode d'installation. N'installe pas les deux versions en
+même temps.
 
-4. Ouvre l'archive et glisse le dossier `data` dans le dossier du jeu.
+### Installation manuelle
 
-5. Accepte le remplacement des fichiers.
+1. Dans Steam, règle la langue de *Yakuza 4 Remastered* sur **English**.
+
+2. Télécharge `Yakuza4-Remastered-FR-v3.0.rar` depuis la dernière release.
+
+3. Ferme *Yakuza 4 Remastered*.
+
+4. Décompresse l'archive.
+
+5. Glisse le dossier `data` dans le dossier d'installation du jeu.
+
+6. Accepte le remplacement des fichiers.
 
 Il n'y a aucun installateur à lancer. Pour revenir à la version d'origine,
 utilise la vérification de l'intégrité des fichiers dans Steam.
+
+### Installation avec Shin Ryu Mod Manager
+
+1. Dans Steam, règle la langue de *Yakuza 4 Remastered* sur **English**.
+
+2. Si une ancienne version du patch a été installée manuellement, restaure
+   d'abord les fichiers d'origine avec la vérification de l'intégrité des
+   fichiers dans Steam.
+
+3. Installe **Shin Ryu Mod Manager** dans le dossier principal du jeu, à côté
+   de `Yakuza4.exe`.
+
+4. Télécharge `Yakuza4-Remastered-FR-SRMM-v3.0.zip` depuis la dernière release.
+
+5. Importe le ZIP directement avec la fonction d'installation de mod de Shin
+   Ryu Mod Manager.
+
+6. Active `Yakuza4-Remastered-FR-v3.0`, puis applique la liste des mods.
+
+7. Lance le jeu.
+
+Le ZIP SRMM ne doit pas être extrait manuellement dans le dossier `data`. Pour
+désinstaller cette version, désactive ou supprime le mod dans Shin Ryu Mod
+Manager, puis applique de nouveau la liste des mods.
 
 > Télécharge l'archive depuis **Releases**. Le bouton
 > **Code → Download ZIP** ne contient pas le patch installable.
 
 ### Compatibilité
 
-La traduction est construite et testée sur Steam. Les versions GOG et Xbox app
-/ Game Pass pourraient être compatibles si leur dossier `data` est identique,
-mais elles ne sont pas encore testées officiellement.
+La traduction est construite et testée sur Steam. La version dédiée à Shin Ryu
+Mod Manager a été validée avec SRMM 5.0.4. Les versions GOG et Xbox app / Game
+Pass pourraient être compatibles si leur dossier `data` est identique, mais
+elles ne sont pas encore testées officiellement.
 
 ## Contenu du patch
 
@@ -133,14 +170,16 @@ Le dossier `data` de la release contient uniquement les fichiers modifiés :
 
 ## État du projet
 
-**Le patch est désormais en bêta.** L'histoire principale et l'intégralité des
-sous-intrigues ont été vérifiées manuellement.
+**Le patch est désormais disponible en version stable v3.0.** L'histoire
+principale et l'intégralité des sous-intrigues ont été vérifiées manuellement.
 
 Les cinq parties du jeu — Akiyama, Saejima, Tanimura, Kiryu et la partie finale
 — sont **jouables et compréhensibles en français**, aussi bien pour l'histoire
 principale que pour les sous-intrigues.
 
-Le projet reste en phase de correction avant sa publication sur **Nexus Mods**.
+La v3.0 peut être installée manuellement ou utilisée avec **Shin Ryu Mod
+Manager**. Le projet continuera de recevoir les corrections signalées par les
+joueurs.
 
 Des erreurs de contexte, d'affichage, d'orthographe ou de formulation peuvent
 encore subsister. Les retours de jeu permettent de les repérer et de les
@@ -178,8 +217,15 @@ Le patch ne modifie pas les fichiers de sauvegarde.
 
 ### Comment désinstaller le patch ?
 
-Sur Steam, utilise la vérification de l'intégrité des fichiers du jeu. Elle
-restaurera les fichiers d'origine.
+Pour la version manuelle, utilise la vérification de l'intégrité des fichiers du
+jeu dans Steam. Pour la version SRMM, désactive ou supprime le mod dans le
+gestionnaire, puis applique de nouveau la liste des mods.
+
+### Quelle archive dois-je télécharger ?
+
+Télécharge le RAR si tu veux installer le patch manuellement. Télécharge le ZIP
+SRMM si tu utilises Shin Ryu Mod Manager. N'installe pas les deux versions en
+même temps.
 
 ### Un texte est encore en anglais ou ne correspond pas à la scène.
 
@@ -203,7 +249,9 @@ manuellement. Les cinq parties sont jouables et compréhensibles en français.
 - [x] Vérifier l'histoire principale de bout en bout
 - [x] Vérifier l'intégralité des sous-intrigues
 - [x] Continuer à corriger les formulations et erreurs signalées
-- [ ] Préparer la version finale et sa publication sur Nexus Mods
+- [x] Préparer la version stable v3.0
+- [x] Ajouter une version compatible avec Shin Ryu Mod Manager
+- [ ] Publier également le patch sur Nexus Mods
 
 ## Remerciements
 
